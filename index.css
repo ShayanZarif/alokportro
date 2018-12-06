@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+
+#a1{
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    color: black;
+    text-decoration: underline;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+#j{
+    padding-top: 20px;
+}
+#nv1{
+    background-color: black;
+}
+#j, footer{
+    color:beige;
+}
+#t{
+    padding-left: 39px;
+    color: #abb0b4;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+#io{
+    width: 450px;
+    height: 350px;
+    border-radius: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+#c2{
+    background-color: #171313;
+}
+
+#ip{
+    font-size: 20px;
+    color: white;
+    padding-top:30px;
+    padding-left: 15px;
+    padding-bottom: 30px
+}
+#s{
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
